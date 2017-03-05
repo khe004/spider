@@ -123,4 +123,3 @@ mt.login()
 for i in range(96):
     mt.getHDcensoredPage(i)
     print ("Page {0} finished!".format(i))
-#mt.printDict()
